@@ -1,0 +1,1 @@
+Classify weather conditions based on features like temperature and humidity using decision trees, random forest, and ensemble models.
